@@ -152,7 +152,11 @@ if(expirydate>today):
     elif(True):
             period=372
             hero()
-    else:
+    
+
+
+
+else:
         banner='figlet IDFC MaNTRI'
         print("Hi There,COLONEL IDFC here  ")
         print("You Have Purchased Basic Hack")
@@ -166,17 +170,3 @@ if(expirydate>today):
         print("If you think it is an error contact")
         print(" admin on telegram @IDFCMONEY ")
         (" Channel join krle bhosdke😁 @IDFCMONEY ")
-
-
-
-else:
-    banner='figlet IDFC MaNTRI'
-    system(banner)
-    print("*---------*----------*-------------*----------*")
-    print("Your hack has expired--- Please contact")
-    print(" on telegram ----@IDFCMONEY for activating")
-    print(" Recharge Amount :        Total limit " )
-    print(" 1.     1000 INR -------  7 Day (30 Games")
-    print(" 2.     5000 INR -------  30 Days(120 Games")
-    print("*---------*----------*-------------*----------*")
-    print("Your custom hack can be made request from us.")
